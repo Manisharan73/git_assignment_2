@@ -8,3 +8,5 @@
 - ***GitHub Pages*** - Host static websites directly from a repository.
 - ***Projects*** - Kanban-style boards to manage tasks and progress.
 - ***Wiki*** - Documentation space for your repository.
+- ***Code Review*** - Inline comments and approvals in Pull Requests to improve code quality.
+- ***GitHub Copilot*** - AI-powered code completion and suggestions inside your editor.
